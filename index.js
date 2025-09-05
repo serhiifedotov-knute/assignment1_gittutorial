@@ -5,4 +5,4 @@ function AddTwoNumber(a,b){
     return a  + b;
 }
 
-console.log(AddTwoNumber(5,10));
+console.log(AddTwoNumber(5,20));
